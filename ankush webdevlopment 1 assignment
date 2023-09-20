@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--Document information-->
+        <meta charset="UTF-8">
+        <title>ANKUSH BANSAL</title>
+    </head>
+    <body>
+         <header>
+        Ankush bansal
+      </header>
+      <main>
+        <article>my name is <bold>ankush bansal</bold> I love to have a smooth running business life</article>
+        <p> my name is Ankush bansal, i belong to a beautiful city karnal India. My dream to have a good business. My hobbies are listening to music,playing cricket
+            I am here in Canada to fulfil my all the dreams.After getting all the skills,i will go back at my home country.<strong>my father is my strenght</strong>
+   i have completed my 12<sup>th</sup> in <bold>2022</bold>   </p>
+        <h1>section</h1>
+        <ol>
+            <li>bike</li>
+            <li>fruit</li>
+            <li>machine</li>
+        </ol>
+        <h2>grocery</h2>
+        <ul>
+            <li>rice</li>
+            <li>grain</li>
+        </ul>
+        <dl>
+            <dt>dairy</dt>
+            <dd>milk</dd>
+            <dd>curd</dd>
+            <dt>oil</dt>
+            <dd>vegetable oil</dd>
+            
+            
+        </dl>
+    
+                
+
+            
+        </ol>
+
+        <q>try to make my life easy, i do not know hot but i will</q>
+    
+    <footer>Your page copyrights will be here</footer>
+    </body>
